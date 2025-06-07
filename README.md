@@ -11,12 +11,7 @@
 - [Features](#features)  
 - [Technology Stack](#technology-stack)  
 - [Installation](#installation)  
-- [Usage](#usage)  
-- [Configuration](#configuration)  
-- [How It Works](#how-it-works)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
+- [Usage](#usage) 
 
 ---
 
