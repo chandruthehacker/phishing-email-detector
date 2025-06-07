@@ -1,6 +1,6 @@
 # AI-Powered Phishing Email Detector
 
-![Phishing Email Detector Banner](https://your-image-url.com/banner.png)  
+![Phishing Email Detector Banner](https://github.com/chandruthehacker/phising-email-detector/blob/main/frontend/thumbnail.png)  
 *Protect yourself from phishing attacks using cutting-edge AI technology.*
 
 ---
