@@ -1,0 +1,9 @@
+google-generativeai
+python-dotenv
+flask
+flask-cors
+jsonify
+request
+webbrowser
+threading
+time

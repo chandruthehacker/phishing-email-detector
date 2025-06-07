@@ -1,0 +1,24 @@
+Subject: Urgent Security Alert: Your Account Has Been Suspended!
+From: support@amaz0n.com (Amazon Security Team)
+To: random_user_123@gmail.com
+
+Dear Customer,
+
+We regret to inform you that your Amazon.com account has been temporarily suspended due to unusual activity detected on your recent purchases. This action has been taken to protect your account from unauthorized access.
+
+To immediately reactivate your account and prevent permanent closure, you must verify your account details by clicking the link below:
+
+VERIFY YOUR ACCOUNT NOW
+
+Please be aware that if you do not complete this verification within 24 hours, your account will be permanently locked, and all pending orders will be cancelled.
+
+We apologize for any inconvenience this may cause but prioritize the security of our valued customers.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+
+Amazon Customer Service
+Security Department
+
+Please do not reply to this email.

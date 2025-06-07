@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Phishing Email Detector</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://cdn.boxicons.com/fonts/basic/boxicons.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="page-container">
+    <div class="container">
+      <h1 class="title">Phishing Email Detector</h1>
+
+      <div class="form-group textarea-wrapper">
+        <label for="emailContent" class="label"
+          >Paste Email Content Here:</label
+        >
+
+        <div class="button-group">
+          <button id="pasteButton" class="paste-button" type="button">
+            <i class="bx bx-paste"></i> Paste
+          </button>
+          <button id="clearButton" class="clear-button" type="button">
+            Clear
+          </button>
+        </div>
+
+        <textarea
+          id="emailContent"
+          class="textarea"
+          rows="15"
+          placeholder="Paste the suspicious email content (including headers if possible) here..."
+        ></textarea>
+      </div>
+
+      <button id="analyzeButton" class="analyze-button">Analyze Email</button>
+
+      <div id="loadingIndicator" class="loading hidden">
+        Analyzing... Please wait.
+        <div class="spinner"></div>
+      </div>
+
+      <div class="result-section">
+        <h2 class="result-title">Analysis Result:</h2>
+        <div id="resultDisplay" class="result-display">
+          The analysis result will appear here.
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

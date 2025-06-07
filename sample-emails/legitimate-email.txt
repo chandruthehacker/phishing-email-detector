@@ -1,0 +1,31 @@
+Subject: Your Monthly Google Workspace Invoice - July 2024
+From: noreply@google.com (Google Workspace)
+To: your.business.account@example.com
+
+Dear Valued Customer,
+
+This email confirms that your monthly invoice for Google Workspace services is now available.
+
+Invoice Details:
+
+Invoice Number: WS-2024-07-ABC-12345
+
+Billing Period: July 1, 2024 - July 31, 2024
+
+Amount Due: $50.00 USD
+
+Due Date: August 15, 2024
+
+You can view your full invoice, manage your billing settings, or update your payment method by logging into your Google Admin console:
+
+https://admin.google.com (Please log in directly or copy/paste this link into your browser)
+
+This is an automated notification. Please do not reply to this email.
+
+If you have any questions, please visit our Help Center at support.google.com/a.
+
+Thank you for choosing Google Workspace.
+
+Sincerely,
+
+The Google Workspace Team
